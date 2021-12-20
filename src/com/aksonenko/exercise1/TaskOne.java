@@ -5,11 +5,6 @@ import java.util.Comparator;
 import java.util.List;
 
 public class TaskOne {
-	/*
-	 * Сделать метод, который принимает на вход массив целых чисел, и возвращает
-	 * только те из них, которые положительные (>=0), отсортировав их по убыванию.
-	 * Сделать unit-тесты для этого метода.
-	 */
 
 	public static List getSortedList(int array[]) throws NullPointerException {
 		List<Integer> intList = new ArrayList<>();

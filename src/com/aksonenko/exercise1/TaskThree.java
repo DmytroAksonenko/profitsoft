@@ -9,12 +9,6 @@ import java.util.Objects;
 
 public class TaskThree {
 
-	/*
-	 * Реализовать метод, сортирующий геометрические 3d фигуры по объему. Метод
-	 * принимает параметром коллекцию произвольных геометрических фигур (куб, шар,
-	 * цилиндр). Написать unit-тесты для метода.
-	 */
-
 	public List<Shape> sortShapes(Collection<Shape> collection) {
 
 		List<Shape> list = new LinkedList<Shape>(collection);

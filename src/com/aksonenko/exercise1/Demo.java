@@ -31,7 +31,7 @@ public class Demo {
 		System.out.println("\n" + "Task2:");
 		System.out.println(taskTwo.getTopFiveList(list));
 
-//Task 2
+//Task 3
 		TaskThree taskThree = new TaskThree();
 		System.out.println("\n" + "Task3:");
 
