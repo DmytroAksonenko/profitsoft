@@ -1,0 +1,42 @@
+[
+ {
+  "formed": 2019,
+  "traffic_violations": [
+   {
+    "date_time": "2019-12-28 15:39:03",
+    "first_name": "Timur",
+    "last_name": "Petrov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+	},
+    {
+    "date_time": "2019-11-30 02:34:22",
+    "first_name": "Yegor",
+    "last_name": "Moskalenko",
+    "type": "NO_DRIVING_LICENSE",
+    "fine_amount": 20400.00
+	},
+    {
+    "date_time": "2019-07-05 12:55:06",
+    "first_name": "Nikolay",
+    "last_name": "Koval",
+    "type": "DRIVING_WHILE_INTOXICATED",
+    "fine_amount": 17000.00
+	},
+    {
+    "date_time": "2019-04-21 05:01:00",
+    "first_name": "Mariya",
+    "last_name": "Aleksandrova",
+    "type": "PARKING_VIOLATION",
+    "fine_amount": 1700.00
+	},
+    {
+    "date_time": "2019-01-04 22:14:09",
+    "first_name": "Vitalina",
+    "last_name": "Ostapova",
+    "type": "PARKING_VIOLATION",
+    "fine_amount": 1020.00
+	}
+  ]
+ }
+]

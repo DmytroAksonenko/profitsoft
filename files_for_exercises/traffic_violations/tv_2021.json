@@ -1,0 +1,42 @@
+[
+ {
+  "formed": 2021,
+  "traffic_violations": [
+   {
+    "date_time": "2021-11-28 16:39:03",
+    "first_name": "Ibrahim",
+    "last_name": "Sultan",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+	},
+    {
+    "date_time": "2021-11-11 03:34:22",
+    "first_name": "Anastasiya",
+    "last_name": "Romanova",
+    "type": "DRIVING_WHILE_INTOXICATED",
+    "fine_amount": 17000.00
+	},
+    {
+    "date_time": "2021-08-05 12:55:06",
+    "first_name": "Zakhar",
+    "last_name": "Ostapchuk",
+    "type": "PARKING_VIOLATION",
+    "fine_amount": 1700.00
+	},
+    {
+    "date_time": "2021-03-28 16:00:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+	},
+    {
+    "date_time": "2021-02-04 22:14:09",
+    "first_name": "Oleksiy",
+    "last_name": "Melnyk",
+    "type": "SPEEDING",
+    "fine_amount": 1700.00
+	}
+  ]
+ }
+]

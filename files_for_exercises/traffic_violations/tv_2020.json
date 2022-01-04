@@ -1,0 +1,42 @@
+[
+ {
+  "formed": 2020,
+  "traffic_violations": [
+   {
+    "date_time": "2020-12-28 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+	},
+    {
+    "date_time": "2020-11-30 02:34:22",
+    "first_name": "Serhiy",
+    "last_name": "Usov",
+    "type": "NO_DRIVING_LICENSE",
+    "fine_amount": 20400.00
+	},
+    {
+    "date_time": "2020-07-05 12:55:06",
+    "first_name": "Oleksiy",
+    "last_name": "Melnyk",
+    "type": "DRIVING_WHILE_INTOXICATED",
+    "fine_amount": 17000.00
+	},
+    {
+    "date_time": "2020-04-21 05:01:00",
+    "first_name": "Mariya",
+    "last_name": "Aleksandrova",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+	},
+    {
+    "date_time": "2020-01-04 22:14:09",
+    "first_name": "Oleksiy",
+    "last_name": "Melnyk",
+    "type": "PARKING_VIOLATION",
+    "fine_amount": 1020.00
+	}
+  ]
+ }
+]
