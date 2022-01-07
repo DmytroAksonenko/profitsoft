@@ -25,6 +25,9 @@ Here it is necessary to read the JSON files with data on fines for traffic viola
 #### `Homework for lectures 5 and 6:`
 * [ps_spring_rest](https://github.com/DmytroAksonenko/ps_spring_rest)
 
+#### `Homework for lectures 7 and 8:`
+* [ps_spring_rest_db](https://github.com/DmytroAksonenko/ps_spring_rest_db)
+
 #### `Homework for lectures 9 and 10:`
 * [react_calculator](https://github.com/DmytroAksonenko/react_calculator)
 * [spring_rc_examples](https://github.com/DmytroAksonenko/spring_rc_examples)
