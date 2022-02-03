@@ -31,3 +31,10 @@ Here it is necessary to read the JSON files with data on fines for traffic viola
 #### `Homework for lectures 9 and 10:`
 * [react_calculator](https://github.com/DmytroAksonenko/react_calculator)
 * [spring_rc_examples](https://github.com/DmytroAksonenko/spring_rc_examples)
+
+#### `Homework for lectures 11 and 12:`
+* [react_crud](https://github.com/DmytroAksonenko/react_crud)
+* [sb_react_crud_backend](https://github.com/DmytroAksonenko/sb_react_crud_backend)
+
+#### `Homework for lecture 13:`
+* [spring_rest_mongo](https://github.com/DmytroAksonenko/spring_rest_mongo)
